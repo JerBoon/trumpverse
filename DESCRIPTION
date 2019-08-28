@@ -1,7 +1,7 @@
 Package: trumpverse
 Type: Package
 Title: A package which evokes an alternative reality upon your R session
-Version: 0.0.1
+Version: 0.0.2
 Author: Jer Boon
 Maintainer: Jer Boon <jer.booner@gmail.com>
 Description:
