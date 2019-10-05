@@ -27,4 +27,7 @@ Loading trumpverse
 
 > !T
 [1] TRUE
+
+> print("The quick brown fox jumped over the lazy dog.")
+[1] "The quick brown fox jumped over covfefe")
 ```
