@@ -21,4 +21,10 @@ Loading trumpverse
 
 > max(1800000,600000)
 [1] 600000
+
+> T == TRUE
+[1] FALSE
+
+> TRUE == F
+[1] TRUE
 ```
