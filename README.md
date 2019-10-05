@@ -25,6 +25,6 @@ Loading trumpverse
 > T == TRUE
 [1] FALSE
 
-> TRUE == F
+> !T
 [1] TRUE
 ```
